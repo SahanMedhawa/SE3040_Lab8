@@ -1,10 +1,10 @@
-import Greeting from "./components/Greeting";
-import NavBar from "./components/NavBar";
-import Footer from "./components/Footer";
-import Card from "./components/Card";
-import Button from "./components/Button";
-import Banner from "./components/Banner";
-import Testimonial from "./components/Testimonial";
+import Greeting from "./components/Greeting.jsx";
+import NavBar from "./components/NavBar.jsx";
+import Footer from "./components/Footer.jsx";
+import Card from "./components/Card.jsx";
+import Button from "./components/Button.jsx";
+import Banner from "./components/Banner.jsx";
+import Testimonial from "./components/Testimonial.jsx";
 
 function App() {
   return (
